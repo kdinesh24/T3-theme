@@ -1,4 +1,4 @@
-# My Dark Theme for VS Code
+# T3 Theme for VS Code
 
 A minimal dark theme with deep black backgrounds and vibrant syntax highlighting.
 
