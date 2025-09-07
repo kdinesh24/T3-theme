@@ -1,37 +1,23 @@
-# T3 Theme for VS Code
+# T3 Dark Theme for VS Code
 
-A minimal dark theme with deep black backgrounds and vibrant syntax highlighting.
+A minimal and elegant **dark theme** designed to keep your coding environment distraction-free.  
+Built with deep tones, subtle contrasts, and balanced syntax highlighting for long coding sessions.
+
+---
+
+## Features
+
+- Deep black and dark-gray backgrounds for reduced eye strain.  
+- Vibrant yet minimal syntax highlighting.  
+- Optimized for readability across multiple languages.  
+- Clean UI integration with VS Code.  
 
 ---
 
 ## Installation
 
-You can install this theme manually using the `.vsix` file provided in this repository.
+### 1. Install from VSIX (Local Install)
+If you have the `.vsix` file:
 
-### 1. Download the `.vsix` file
-- Clone or download this repository.
-- Locate the `.vsix` file inside the repo (e.g., `my-dark-theme-0.0.1.vsix`).
-
-### 2. Install the theme in VS Code
-
-#### Option A: Using the terminal
 ```bash
-code --install-extension my-dark-theme-0.0.1.vsix
-```
-
-#### Option B: Using the Extensions menu
-1. Open **VS Code**  
-2. Go to the **Extensions view** (`Ctrl+Shift+X` / `Cmd+Shift+X`)  
-3. Click on the **⋮** (three dots menu) in the top-right corner  
-4. Select **Install from VSIX...**  
-5. Choose the downloaded `.vsix` file  
-
----
-
-### 3. Activate the theme
-1. Open the **Command Palette** (`Ctrl+Shift+P` / `Cmd+Shift+P`)  
-2. Run `Preferences: Color Theme`  
-3. Select **My Dark Theme**  
-
----
-
+code --install-extension t3-dark-theme-0.0.1.vsix

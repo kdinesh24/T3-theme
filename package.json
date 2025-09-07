@@ -1,0 +1,21 @@
+{
+  "name": "t3-dark-theme",
+  "displayName": "T3 Dark Theme",
+  "description": "A custom dark theme",
+  "version": "0.0.1",
+  "publisher": "kdinesh24", 
+  "engines": {
+    "vscode": "^1.70.0"
+  },
+  "categories": ["Themes"],
+  "icon": "images/icon.png",
+  "contributes": {
+    "themes": [
+      {
+        "label": "T3 Dark Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/my-dark-theme.json"
+      }
+    ]
+  }
+}
