@@ -2,13 +2,17 @@
   "name": "t3-dark-theme",
   "displayName": "T3 Dark Theme",
   "description": "A custom dark theme",
-  "version": "0.0.1",
-  "publisher": "kdinesh24", 
+  "version": "0.0.2",      
+  "publisher": "kdinesh24",
   "engines": {
     "vscode": "^1.70.0"
   },
   "categories": ["Themes"],
   "icon": "images/icon.png",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kdinesh24/T3-theme.git"
+  },
   "contributes": {
     "themes": [
       {
